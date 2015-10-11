@@ -14,8 +14,8 @@ Install instructions
 
 - Clone this repository;
 - Set your own client ID and Secret (generated from creating a new app [here](https://developer.paypal.com));
-- Add a credit card number in the '/cardPayment' route (add a bogus one just for testing purposes);
-- Run the project;
+- Add a credit card number in the `/cardPayment` route (add a bogus one just for testing purposes);
+- Run the project.
 
 Usage
 ---
